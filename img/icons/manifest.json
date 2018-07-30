@@ -2,7 +2,7 @@
  "name": "PWA JS",
  "short_name": "PWA",
  "lang": "en-US",
- "start_url": "/simple-pwa",
+ "start_url": "/",
  "background_color": "#2C3E50",
  "theme_color": "#18BC9C",
  "display": "standalone",
