@@ -2,7 +2,7 @@
  "name": "PWA JS",
  "short_name": "PWA",
  "lang": "en-US",
- "start_url": "https://azhry.github.io/",
+ "start_url": "https://azhry.github.io/simple-pwa",
  "background_color": "#2C3E50",
  "theme_color": "#18BC9C",
  "display": "standalone",
